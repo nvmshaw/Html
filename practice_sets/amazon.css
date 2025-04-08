@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+
+}
+
+#navbar{
+    background-color: black;
+    height:60px;
+    
+}
+
+#logo{
+    color:#f08804;
+    font-size: 25px;
+
+}
+
+#two{
+    margin-left:200px;
+
+}
+
+#three{
+    margin-left:200px;
+
+}
+
+#four{
+    margin-left:200px;
+    margin-right:200px;
+}
+
+button{
+    background-color:#f08804;
+}
+
+a{
+    text-decoration: none;
+}
+
+input{
+    color:black;
+}
